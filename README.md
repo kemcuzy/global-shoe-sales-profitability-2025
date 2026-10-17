@@ -62,7 +62,6 @@ Dashboard
 
 The Tableau workbook includes KPI views for total revenue, total profit and total units sold, together with worksheets for monthly performance, country revenue, footwear demand, price ranges, sales volume, profit margins, shoe-type profitability, sales channels, categories and leading brands.
 
-Dashboard screenshot: 
 
 <img width="1703" height="895" alt="Global Shoe Sales and Profitability Dashboard" src="https://github.com/user-attachments/assets/44ac23de-f4de-46f9-9a95-c2a01b85a8c0" />
 
